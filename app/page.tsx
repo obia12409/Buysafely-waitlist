@@ -56,7 +56,7 @@ export default function BuySafelyWaitlist() {
         </h1>
         
         <p className="text-lg md:text-xl text-gray-700 mb-12 max-w-2xl mx-auto">
-          Secure your transactions with cryptographic **PoD tokens**. [span_10](start_span)[span_11](start_span)[span_12](start_span)No new apps—just the WhatsApp you already use to grow your business[span_10](end_span)[span_11](end_span)[span_12](end_span).
+          Secure your transactions with cryptographic **PoD tokens**. No new apps—just the WhatsApp you already use to grow your business.
         </p>
 
         {/* Waitlist Form */}
@@ -98,28 +98,28 @@ export default function BuySafelyWaitlist() {
                 <Lock className="text-white w-7 h-7" />
               </div>
               <h3 className="text-xl font-bold mb-4">Secure Protocol</h3>
-              <p className="text-gray-300 leading-relaxed">Funds stay in the vault until you confirm. [span_13](start_span)[span_14](start_span)A layer of trust specifically for African social commerce[span_13](end_span)[span_14](end_span).</p>
+              <p className="text-gray-300 leading-relaxed">Funds stay in the vault until you confirm. A layer of trust specifically for African social commerce.</p>
             </div>
             <div className="group">
               <div className="bg-[#128C7E] w-14 h-14 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#25D366] transition-colors">
                 <ShieldCheck className="text-white w-7 h-7" />
               </div>
               <h3 className="text-xl font-bold mb-4">PoD token Verification</h3>
-              [span_15](start_span)[span_16](start_span)<p className="text-gray-300 leading-relaxed">The Proof of Delivery (PoD) token ensures sellers only get paid once the buyer is satisfied[span_15](end_span)[span_16](end_span).</p>
+              <p className="text-gray-300 leading-relaxed">The Proof of Delivery (PoD) token ensures sellers only get paid once the buyer is satisfied.</p>
             </div>
             <div className="group">
               <div className="bg-[#128C7E] w-14 h-14 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#25D366] transition-colors">
                 <BarChart3 className="text-white w-7 h-7" />
               </div>
               <h3 className="text-xl font-bold mb-4">Auto-Bookkeeping</h3>
-              [span_17](start_span)[span_18](start_span)[span_19](start_span)<p className="text-gray-300 leading-relaxed">Every transaction via the Protocol builds your credit score and generates free business reports[span_17](end_span)[span_18](end_span)[span_19](end_span).</p>
+              <p className="text-gray-300 leading-relaxed">Every transaction via the Protocol builds your credit score and generates free business reports.</p>
             </div>
           </div>
         </div>
       </section>
 
       <footer className="relative z-10 py-12 text-center text-gray-500 text-sm">
-        <p>© 2026 BuySafely. [span_20](start_span)[span_21](start_span)Built for the traders of Lagos, Nairobi, and Accra[span_20](end_span)[span_21](end_span).</p>
+        <p>© 2026 BuySafely. [span_20](start_span)[span_21](start_span)Built for the traders of Lagos, Nairobi, and Accra.</p>
       </footer>
     </div>
   );
